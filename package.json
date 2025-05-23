@@ -23,9 +23,10 @@
     "vite": "^5.4.2"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^2.4.0",
     "date-fns": "^2.30.0",
     "mapbox-gl": "^2.15.0",
-    "stripe": "^18.1.1",
+    "stripe": "^14.14.0",
     "svelte-routing": "^2.5.0"
   }
 }
